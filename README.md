@@ -27,7 +27,7 @@ By collecting and analyzing World Cup data from its inception, we delve into the
 
 1. *Download Power BI*: Ensure you have Power BI Desktop installed on your machine. You can download it from [here](https://powerbi.microsoft.com/desktop/).
 2. *Access Excel Files*: Download the Excel data files from the project repository.
-3. *Load Excel Data into Power BI: Open the provided Power BI (.pbix) file and ensure that the Excel files are correctly linked to the Power BI model. If necessary, you can manually load the Excel files by using the **Get Data* option in Power BI.
+3. *Load Excel Data into Power BI: Open the provided Power BI (.pbix) file and ensure that the Excel files are correctly linked to the Power BI model. If necessary, you can manually load the Excel files by using the **Get Data** option in Power BI.
 4. *Explore Dashboards*: Once the data is loaded, navigate through the Power BI dashboards and reports to explore the insights on World Cup history.
 5. *Interact with Visuals*: Use the filters and slicers provided in Power BI to interact with the data and discover deeper insights.
 
